@@ -6,11 +6,10 @@ function convertToBool(text, fault = 'true') {
 }
 module.exports = {
 
-IMG: process.env.IMG=`https://telegra.ph/file/d8279f4ca5da23bda7da4.jpg`,
-CAPTION: process.env.CAPTION=`*𝐁𝐇𝐀𝐒𝐇𝐈-𝐌𝐃 𝐒𝐄𝐒𝐒𝐈𝐎𝐍-𝐈𝐃*\n\n_🪄 ᴅᴏɴ'ᴛ ꜱʜᴀʀᴇ ʏᴏᴜʀ ꜱᴇꜱꜱɪᴏɴ ɪᴅ ᴡɪᴛʜ ᴀɴʏᴏɴᴇ_`,
+IMG: process.env.IMG=`https://telegra.ph/file/1aad0b60b66909f490635.jpg`,
+CAPTION: process.env.CAPTION=`*𝗦𝗣-𝗠𝗗 𝗦𝗘𝗦𝗦𝗜𝗢𝗡 𝗜𝗗`,
 //----------------------------------------------------------------------------------------
-// මෙතනය ඔයා mega එකෙ Account එකක් හදලා එකෙ Email පාස් දාන්න ඔනේ මෙක වැඩ කරන්නෙනැතුව ගියොත් අවුල එන්නෙ ඔකෙ.
-EMAIL: process.env.EMAIL=`musicwow163@gmail.com`,
-PASS: process.env.PASS=`v22@v22@v22`,
+EMAIL: process.env.EMAIL=`pubudulakmal466@gmail.com`,
+PASS: process.env.PASS=`demone@1#234`,
     
 };
